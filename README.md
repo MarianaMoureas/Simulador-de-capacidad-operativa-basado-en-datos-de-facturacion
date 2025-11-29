@@ -1,0 +1,5 @@
+El proyecto consiste en una aplicación web que permite estimar de forma objetiva la capacidad operativa necesaria a partir de datos de facturación. A grandes rasgos, el sistema toma un archivo CSV con el histórico de facturas (o bien generar datos sintéticos realistas cuando no se quieren usar datos sensibles), analiza el volumen y la complejidad mensual, proyecta el comportamiento para un año futuro según parámetros definidos por el usuario (crecimiento, distribución interno/externo, jornadas y días laborales) y convierte esa carga de trabajo en horas y en número de colaboradores requeridos por mes y en el pico anual, diferenciando entre personal interno, externo y total.
+
+
+Se diseño e implemento una automatización que, a partir del análisis de datos históricos de facturación y métricas clave de conocimiento del negocio, permita proyectar de manera precisa la facturación futura y determinar la cantidad óptima de personal requerido para garantizar la eficiencia operativa y el cumplimiento de la demanda.
+
